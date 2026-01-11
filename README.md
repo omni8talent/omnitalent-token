@@ -1,9 +1,9 @@
-# OmniTalent (OT)
+# Omni Talent (OT)
 
-OmniTalent (OT) is a Solana-based utility token designed to facilitate global payments, freelancer payouts, and ecosystem access.
+Omni Talent (OT) is a Solana-based utility token designed to facilitate global payments, freelancer payouts, and ecosystem access.
 
 ## Token Information
-- Name: OmniTalent
+- Name: Omni Talent
 - Symbol: OT
 - Network: Solana
 - Type: Utility Token
